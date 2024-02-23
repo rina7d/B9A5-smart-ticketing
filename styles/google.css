@@ -2,6 +2,10 @@
   max-width: 1200px;
   margin: auto;
 }
-.main{
-  background-color: #F7F8F8;
+
+.btn{
+    background-color: #1cd10036;
+    border: 1px solid #1DD100;
+    border-radius: 5px;
+    cursor: pointer;
 }
